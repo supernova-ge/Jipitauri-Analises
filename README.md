@@ -25,7 +25,7 @@ Jipitauri is a project that utilizes machine translation technology to develop a
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [on this Drive](https://drive.google.com/drive/folders/1D_D0woqB7H1iQpakBOqM2P4PPyhCpVdj?usp=share_link)   
-3. etc...
+3. Navigate to the folder where you have saved your data analysis project notebooks and add raw data file.
 
 4. Follow setup [instructions](Link to file)
 
@@ -35,26 +35,17 @@ Jipitauri is a project that utilizes machine translation technology to develop a
 * [Personal Information masking](https://github.com/anajobava/JOBACOPY-JipitauriDataAnalise/blob/main/src/data/masking_personal_info.ipynb)
 * [Removing Emojis](https://github.com/anajobava/JOBACOPY-JipitauriDataAnalise/blob/main/src/data/remove_emojis.ipynb)
 * [Removing URLs](https://github.com/anajobava/JOBACOPY-JipitauriDataAnalise/blob/main/src/data/remove_urls.ipynb)
-* [Blog Post](link)
 
 ### Exploratory Data Analysis (EDA)
-*
-*
+* [Statistics of User Feedback](link)
+* [Word Embedings](link)
 
 ## Contribute
 Thanks for taking the time to contribute to this project! There are many ways you can help out.
 
-### Questions
-If you have a question, create an issue, and label it as a question.
-
-### Issues for bugs or feature requests
-If you encounter any bugs in the code or want to request a new feature, please create an issue to report it and add a label to indicate what type of issue it is.
-
-### Contribute Code
-We welcome your pull requests for bug fixes. To implement something new, please create an issue first so we can discuss it together.
-
-When your code is ready to be submitted, submit a pull request to begin the code review process.
-
+* If you have any questions about our data analysis project or how to contribute, please don't hesitate to create an issue and label it as a question. 
+* If you encounter any issues or want to request a new feature, please create an issue and label it accordingly. For example, if you find a bug in our data analysis code, label it as a bug. If you have an idea for a new feature, label it as a feature request.
+* Your pull requests for bug fixes and new features are welcome! If you'd like to implement something new, please create an issue first so we can discuss it together. Once your code is ready to be submitted, please submit a pull request to begin the code review process.
 
 ## Contact
 * If you haven't joined Jipitauri Discord Server, [here is the invite link](https://discord.gg/jkDJV22n).
