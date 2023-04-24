@@ -37,8 +37,8 @@ Jipitauri is a project that utilizes machine translation technology to develop a
 * [Removing URLs](https://github.com/anajobava/JOBACOPY-JipitauriDataAnalise/blob/main/src/data/remove_urls.ipynb)
 
 ### Exploratory Data Analysis (EDA)
-* [Statistics of User Feedback](link)
-* [Word Embedings](link)
+* [Statistics of User Feedback](https://github.com/supernova-ge/Jipitauri-dataanalyses/blob/main/src/EDA/like_dislike_stats.ipynb)
+* [Word Embedings](https://github.com/supernova-ge/Jipitauri-dataanalyses/blob/main/src/EDA/word_embedings.ipynb)
 
 ## Contribute
 Thanks for taking the time to contribute to this project! There are many ways you can help out.
